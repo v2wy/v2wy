@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @v2wy
 - 👀 I’m interested in coding, gaming and traving 
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on golang learing
 - 📫 my email:wangyu_95@outlook.com
+- ✨ my blog:v2wy.github.io
 
 <!---
 v2wy/v2wy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
