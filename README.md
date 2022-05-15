@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @v2wy
-- 👀 I’m interested in coding, gaming and traving 
+- 👀 I’m interested in coding and gaming
 - 🌱 I’m currently learning golang
 - 📫 my email: wangyu_95@outlook.com
 - ✨ my blog: https://v2wy.github.io
